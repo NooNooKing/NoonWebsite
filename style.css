@@ -1,3 +1,5 @@
-head {
-    background-color: rgb(115,115,212);
+body {
+    background-color: rgb(12, 12, 107);
+    flood-color: rgb(98, 7, 189);
+    text-align: center;
 }
